@@ -20,7 +20,7 @@ contact-management-system/
 
 ## How to Run
 
-**Requirements:** Python 3.x
+**Requirements:** Python 3.12
 
 ```bash
 python contact_management.py
@@ -52,4 +52,4 @@ Enter Your choice(1-5):
 
 **Md. Miraj Khan**  
 First-year CSE Student, East West University  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@miraj-dev2](https://github.com/miraj-dev2)
